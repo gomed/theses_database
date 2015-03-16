@@ -1,0 +1,4 @@
+select *from record join msc_subject on
+msc_subject.id = record.subject_code
+join course on course.id = record.course_id
+join year on year.id = record.year
