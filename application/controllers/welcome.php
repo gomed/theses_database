@@ -1,4 +1,12 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+/**
+ * The admin class is basically the Bsnt Ftth customer controller 
+ *
+ * @author      shiva manhar
+ * @copyright   Copyright (c) 2015, orbitplus.org
+ * @description Welcome
+ */
+
 
 class Welcome extends CI_Controller {
 
